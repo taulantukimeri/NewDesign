@@ -1,0 +1,161 @@
+
+$primary-color: #2247ec;
+$body-color: #0c0a2a;
+
+.ad-main4{
+  width: 70%;
+  margin: 40px auto ;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+
+  h2{
+    font-size: 30px;
+    color: white;
+  }
+  p{
+    width: 60%;
+    text-align: center;
+    color: whitesmoke;
+  }
+
+  .tabs4{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 10px;
+    background: #1B193687;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+    button{
+      background: transparent;
+      position: relative;
+      outline: none;
+      border: none;
+      font-size: 16px;
+      color: white;
+    }
+
+    button:nth-child(2){
+      color: $primary-color;
+    }
+    button:nth-child(2)::after{
+      content:"";
+      position: absolute;
+      z-index: 100;
+      bottom: -10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 1px;
+      background-color: $primary-color;
+    }
+
+  }
+
+  .slider{
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+
+  .btn4{
+    margin-top: 50px;
+    position: relative;
+
+    button{
+      padding: 3px 0;
+      position: relative;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      background: $body-color;
+      outline: none;
+      border: none;
+      color: $primary-color;
+
+      ::before{
+        content: "";
+        position: absolute;
+        top: -5px;
+        right: -10px;
+        z-index: -1;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 1px solid $primary-color;
+      }
+    }
+  }
+
+
+  .slide-main{
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(55, 50, 121, 0.38);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    border: 1px dashed orange;
+
+    img{
+      width: 200px;
+    }
+
+    p{
+      font-size: 11px;
+    }
+    h4{
+      color: whitesmoke;
+    }
+     button{
+       background: transparent;
+       outline: none;
+       border: none;
+       color: $primary-color;
+     }
+  }
+
+  .btn-left{
+      position: absolute;
+      top: 50%;
+      left: -20px;
+      text-align: center;
+      width: 50px;
+      height: 50px;
+      transform: translateY(-50%);
+      text-align: center;
+      border-radius: 50%;
+      background-color: rgba(58, 58, 58, 0.63);
+      font-size: 30px;
+      color: white;
+  }
+
+  .btn-right{
+    position: absolute;
+    top: 50%;
+    right: -20px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    transform: translateY(-50%);
+    text-align: center;
+    border-radius: 50%;
+    background-color: rgba(58, 58, 58, 0.63);
+    font-size: 30px;
+    color: white;
+  }
+}

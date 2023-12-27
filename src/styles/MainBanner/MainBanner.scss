@@ -1,0 +1,240 @@
+
+$primary-color: #2247ec;
+$body-color: #0c0a2a;
+
+.main-banner{
+  width: 100%;
+  margin-top: 50px;
+  position: relative;
+
+  .banner-info{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+
+    h1{
+      font-size: 40px;
+      font-weight: lighter;
+      color: white;
+
+      span{
+        color: $primary-color;
+      }
+    }
+
+    p{
+      width: 50%;
+      color: white;
+      line-height: 25px;
+      font-size: 12px;
+
+    }
+
+    @media screen and (max-width: 720px){
+      p{
+        width: 90%;
+      }
+    }
+
+    .banner-txt-btns{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      button{
+        padding: 15px 40px;
+        background: transparent;
+        outline: none;
+        border: none;
+        color: white;
+        border-radius: 30px;
+      }
+
+      button:nth-child(1){
+        background: $primary-color;
+      }
+      button:nth-child(2){
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+
+        img{
+          width: 45px;
+          height: 45px;
+          object-fit: scale-down;
+          align-items: center;
+          border-radius: 50%;
+          background: #bababa;
+        }
+      }
+
+    }
+
+  }
+  .dashboard-section{
+    width:80%;
+    margin: 40px auto;
+    padding: 200px 0;
+    background: grey;
+  }
+
+  .sponsor-section{
+    width: 80%;
+    margin: 20px auto;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    grid-template-columns: repeat(7, 1fr);
+    place-items: center;
+
+    img{
+      width: 50px;
+      opacity: .7;
+    }
+
+    @media screen and (max-width: 720px){
+       img{
+         width: 55px;
+      }
+    }
+  }
+
+  .plane-one{
+    position: absolute;
+    top: 185px;
+    z-index: -1;
+    width: 210px;
+  }
+  .plane-two{
+    position: absolute;
+    top: 185px;
+    right: 0;
+    z-index: -1;
+    width: 200px;
+  }
+
+  @media screen and (max-width: 720px){
+    .plane-one{
+     top: 280px;
+      width: 140px;
+    }
+    .sponsor-section{
+      display: grid;
+      grid-row-gap: 40px;
+      grid-template-columns: repeat(4, 1fr);
+    }
+    .plane-two{
+      top: 250px;
+      width: 140px;
+    }
+  }
+
+
+  .advertise{
+    width: 100%;
+    background: $primary-color;
+    margin: 0 auto ;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+
+    .ad-info{
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      h1{
+        font-size: 30px;
+        color: white;
+      }
+
+      p{
+        width: 50%;
+        font-size: 13px;
+        color: #cccc;
+      }
+
+      .btn{
+        position: relative;
+
+        button{
+          padding: 3px 0;
+          position: relative;
+          display: flex;
+          gap: 20px;
+          font-size: 20px;
+          align-items: center;
+          background: $primary-color;
+          outline: none;
+          border: none;
+          color: white;
+
+          ::before{
+            content: "";
+            position: absolute;
+            top: -5px;
+            right: -10px;
+            z-index: -1;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 1px solid #cccccc;
+          }
+        }
+      }
+    }
+
+    .add-logo{
+      width: 100%;
+      display: flex;
+      place-items: center;
+      justify-content: center;
+      img{
+        width: 500px;
+      }
+
+    }
+
+
+  }
+  @media screen and (max-width: 1200px) {
+    .ad-main{
+      width: 90%;
+    }
+
+  }
+
+  @media screen and (max-width: 720px) {
+    .ad-main{
+      flex-direction: column-reverse;
+
+    }
+  }
+
+  @media screen and (max-width: 420px) {
+    .ad-main{
+      width: 100%;
+
+    }
+  }
+
+
+  .other-section{
+    width: 100%;
+    margin: 90px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    h2{
+      font-size: 30px;
+      width: 20%;
+      color: white;
+      text-align: center;
+    }
+  }
+}

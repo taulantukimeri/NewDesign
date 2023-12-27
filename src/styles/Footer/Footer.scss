@@ -1,0 +1,177 @@
+
+.main-footer{
+  color: white;
+  width: 100%;
+  background-color: black;
+}
+
+.top-footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+.top-left-footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+
+.top-left-footer h3, .top-left-footer p{
+  margin: 0;
+}
+
+.footer-header-left{
+  display: flex;
+  font-size: 34px;
+}
+
+.top-right-footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+
+.top-right-footer p, .top-right-footer h4{
+  margin: 0;
+}
+
+.footer-header-right{
+  display: flex;
+  gap: 30px;
+}
+
+.playstore{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #353333;
+  padding: 8px;
+}
+
+.playstore p{
+  width: 70px;
+}
+
+.applestore{
+  display: flex;
+  align-items: center;
+  background-color: #353333;
+  padding: 8px;
+}
+
+.applestore p{
+  width: 70px;
+}
+
+.footer-wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-links{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  align-items: start;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.links{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+.title h4{
+  font-size: 20px;
+  margin: 0;
+}
+
+.links p{
+  margin: 0;
+  font-size: 17px;
+}
+
+.footer-subscribe{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+.subscribe h2{
+  font-size: 30px;
+}
+
+.input-newsletter{
+  width: 30%;
+  position: relative;
+}
+
+.inputt{
+  width: 100%;
+  padding: 15px;
+  border-radius: 25px;
+  background-color: transparent;
+  border: 1px solid #ccc;
+}
+
+.inputt::placeholder{
+  padding-left: 50px;
+  font-size: 15px;
+}
+
+.input-newsletter img{
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+}
+
+.subscrie-btn{
+  background-color: #2247ED;
+  position: absolute;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+  top: 6px;
+  right: -25px;
+}
+
+.footer-bottom{
+  display: flex;
+  padding: 50px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right-footer-bottom{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-links{
+  display: flex;
+  gap: 20px;
+}
+
+.bottom-hr{
+  display: flex;
+  height: 30px;
+  margin-left: 15px;
+  color: #ccc;
+}
+
+.footer-language{
+  display: flex;
+  padding: 0px 10px;
+  gap: 10px;
+}

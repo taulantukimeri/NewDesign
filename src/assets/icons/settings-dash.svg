@@ -1,0 +1,6 @@
+<svg id="settings-dash" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Frame" width="24" height="24" fill="none"/>
+  <path id="Vector" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Vector-2" data-name="Vector" d="M9,4.5A4.5,4.5,0,1,1,4.5,0,4.5,4.5,0,0,1,9,4.5Z" transform="translate(7.5 7.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-3" data-name="Vector" d="M16.261,4.856a6.9,6.9,0,0,1,.591,1.022l2.428,1.35a9.562,9.562,0,0,1,.009,4.125L16.852,12.7a6.9,6.9,0,0,1-.591,1.022l.047,2.784a9.75,9.75,0,0,1-3.572,2.072l-2.391-1.434a8.278,8.278,0,0,1-1.181,0L6.783,18.572A9.619,9.619,0,0,1,3.2,16.509l.047-2.775A7.51,7.51,0,0,1,2.658,12.7L.23,11.353A9.563,9.563,0,0,1,.22,7.228l2.437-1.35a6.9,6.9,0,0,1,.591-1.022L3.2,2.072A9.75,9.75,0,0,1,6.774,0L9.164,1.434a8.278,8.278,0,0,1,1.181,0L12.727.009a9.619,9.619,0,0,1,3.581,2.063Z" transform="translate(2.245 2.709)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

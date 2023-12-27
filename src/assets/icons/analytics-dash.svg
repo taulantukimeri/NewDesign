@@ -1,0 +1,11 @@
+<svg id="analytics-dash" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Frame" width="24" height="24" fill="none"/>
+  <path id="Vector" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Vector-2" data-name="Vector" d="M.75,0h16.5A.75.75,0,0,1,18,.75V12a.75.75,0,0,1-.75.75H.75A.75.75,0,0,1,0,12V.75A.75.75,0,0,1,.75,0Z" transform="translate(3 4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0,3,3.75" transform="translate(15 17.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-4" data-name="Vector" d="M3,0,0,3.75" transform="translate(6 17.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-5" data-name="Vector" d="M0,0V2.25" transform="translate(9 11.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-6" data-name="Vector" d="M0,0V3.75" transform="translate(12 9.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-7" data-name="Vector" d="M0,0V5.25" transform="translate(15 8.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-8" data-name="Vector" d="M0,2.25V0" transform="translate(12 2.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>
