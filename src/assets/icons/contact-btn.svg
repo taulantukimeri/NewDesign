@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.236" height="18.236" viewBox="0 0 18.236 18.236">
+  <g id="contact-btn" transform="translate(-3.7 -3.7)">
+    <g id="contact-icon">
+      <path id="Path_5" data-name="Path 5" d="M21.136,25.621a1.848,1.848,0,0,1-1.848,1.848h-.924a1.848,1.848,0,0,1-1.848-1.848V22.848A1.848,1.848,0,0,1,18.363,21h2.773Zm-16.636,0a1.848,1.848,0,0,0,1.848,1.848h.924a1.848,1.848,0,0,0,1.848-1.848V22.848A1.848,1.848,0,0,0,7.273,21H4.5Z" transform="translate(0 -6.334)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <path id="Path_4" data-name="Path 4" d="M4.5,18.363V12.818a8.318,8.318,0,1,1,16.636,0v5.545" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>

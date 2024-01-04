@@ -1,0 +1,69 @@
+.charts{
+    width: 100%;
+    margin-top: 4%;
+    /* border: 1px solid red; */
+}
+
+.top-chart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-left-chart{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.top-left-chart h6{
+    font-size: max(12px, 1.2vw);
+}
+
+.top-left-chart p{
+    font-size: max(11px, 0.9vw);
+    color: #ccc;
+}
+.top-right-chart{
+    display: flex;
+    /* justify-content: space-between; */
+    gap:10px;
+    align-items: center;
+    flex-direction: row;
+}
+
+.performance{
+    border: 1px solid #ccc;
+    width: max(50px, 9vw);
+    height: max(20px, 2vw);
+    font-size: max(10px, 0.9vw);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 5px;
+    padding-left: 5px;
+}
+
+.performance img{
+    width: max(10px, 0.8vw);
+    height: max(10px, 0.8vw);
+}
+
+.monthlyy{
+    font-size: max(10px, 0.9vw);
+    border: 1px solid #ccc;
+    width: max(50px, 5.5vw);
+    height: max(20px, 2vw);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+}
+.monthlyy img{
+    width: max(8px, 0.6vw);
+    height: max(8px, 0.6vw);
+    gap: 5px;
+}

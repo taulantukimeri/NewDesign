@@ -1,0 +1,29 @@
+.top-section{
+    width: 100%;
+}
+
+.top-section h3{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+.top-card {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.top-card-text{
+    margin-right: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.top-card-text h5, .top-card-text p{
+    margin: 0;
+    padding: 0;
+}
+

@@ -1,0 +1,138 @@
+$primary-color: #2247ec;
+$body-color: #0c0a2a;
+
+.ad-main6{
+    width: 100%;
+    display: flex;
+    padding: 50px;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ad-main6-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    .ad-main6-left-header{
+        display: flex;
+        flex-direction: column;
+        gap: 38px;
+    }
+    h2{
+        font-size: 40px;
+    }
+
+    p{
+        font-size: 18px;
+    }
+}
+
+.btn4{
+    margin-top: 50px;
+    position: relative;
+
+    button{
+      padding: 3px 0;
+      position: relative;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      background: $body-color;
+      outline: none;
+      border: none;
+      color: $primary-color;
+
+      ::before{
+        content: "";
+        position: absolute;
+        top: -5px;
+        right: -10px;
+        z-index: -1;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 1px solid $primary-color;
+      }
+    }
+  }
+
+  .ad-main6-banner{
+    display: flex;
+    width: 100%;
+    margin-top: 44px;
+    position: relative;
+
+    .ad6-left-banner{
+        width: 30%;
+        padding-top: 40px;
+
+        img{
+            width: 40%;
+            // z-index: -4;
+            position: absolute;
+            bottom: 130px;
+        }
+    }
+
+    .ad6-right-banner{
+        width: 70%;
+        display: flex;
+        justify-content: start;
+        align-items: start;
+    }
+    .btn4-1{
+        margin-top: 50px;
+        position: relative;
+    
+        button{
+          font-size: 17px;
+          right: 250px;
+          padding: 3px 0;
+          position: relative;
+          display: flex;
+          gap: 20px;
+          align-items: center;
+          background: transparent;
+          outline: none;
+          border: none;
+          color: white;
+    
+          ::before{
+            content: "";
+            position: absolute;
+            top: -5px;
+            right: -10px;
+            z-index: -1;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 1px solid $body-color;
+          }
+        }
+      }
+  }
+
+  .leadership{
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(14, 144, 151);
+    width: 100%;
+    gap: 50px;
+    p{
+        padding: 50px 0;
+        font-size: 18px;
+        // text-align: center;
+        width: 50%;
+    }
+    h2{
+        font-size: 24px;
+    }
+      }
+  
+      

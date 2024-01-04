@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_40793" data-name="Group 40793" transform="translate(-413 -262)">
+    <circle id="Ellipse_4828" data-name="Ellipse 4828" cx="25" cy="25" r="25" transform="translate(413 262)" fill="#2247ed"/>
+    <g id="Icon_feather-users" data-name="Icon feather-users" transform="translate(425.143 272.056)">
+      <path id="Path_41467" data-name="Path 41467" d="M17.895,28.648V26.6a4.1,4.1,0,0,0-4.1-4.1H5.6a4.1,4.1,0,0,0-4.1,4.1v2.049" transform="translate(0 -5.704)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41468" data-name="Path 41468" d="M15.7,8.6a4.1,4.1,0,1,1-4.1-4.1,4.1,4.1,0,0,1,4.1,4.1Z" transform="translate(-1.901)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41469" data-name="Path 41469" d="M33.074,28.71V26.661A4.1,4.1,0,0,0,30,22.7" transform="translate(-9.031 -5.766)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41470" data-name="Path 41470" d="M24,4.7a4.1,4.1,0,0,1,0,7.941" transform="translate(-7.13 -0.062)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

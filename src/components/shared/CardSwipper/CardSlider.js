@@ -31,7 +31,7 @@ const CardSlider = () => {
             <Swiper
                 modules={[Navigation]}
                 slidesPerView={4}
-                spaceBetween={30}
+                spaceBetween={50}
                 navigation={true}
                 className="myySwiper"
 

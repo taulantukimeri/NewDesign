@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_40781" data-name="Group 40781" transform="translate(-413 -262)">
+    <circle id="Ellipse_4828" data-name="Ellipse 4828" cx="25" cy="25" r="25" transform="translate(413 262)" fill="#2247ed"/>
+    <g id="Icon_feather-calendar" data-name="Icon feather-calendar" transform="translate(423.6 273)">
+      <path id="Path_21922" data-name="Path 21922" d="M6.7,6H22.1a2.157,2.157,0,0,1,2.2,2.111V22.889A2.157,2.157,0,0,1,22.1,25H6.7a2.157,2.157,0,0,1-2.2-2.111V8.111A2.157,2.157,0,0,1,6.7,6Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_21923" data-name="Path 21923" d="M24,3V9" transform="translate(-5.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_21924" data-name="Path 21924" d="M12,3V9" transform="translate(-2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_21925" data-name="Path 21925" d="M4.5,15H24.3" transform="translate(0 -3.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

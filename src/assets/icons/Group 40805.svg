@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_40805" data-name="Group 40805" transform="translate(-748 -352)">
+    <g id="Ellipse_4825" data-name="Ellipse 4825" transform="translate(748 352)" fill="#2247ed" stroke="#707070" stroke-width="1" opacity="0.03">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="29.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-file-csv" data-name="Icon awesome-file-csv" d="M6.113,15.389A.312.312,0,0,1,5.8,15.7H5.488a.625.625,0,0,0-.625.625v1.25a.625.625,0,0,0,.625.625H5.8a.312.312,0,0,1,.312.313v.625a.312.312,0,0,1-.312.313H5.488a1.875,1.875,0,0,1-1.875-1.875v-1.25a1.875,1.875,0,0,1,1.875-1.875H5.8a.312.312,0,0,1,.312.313Zm1.729,4.062H7.363a.312.312,0,0,1-.312-.312v-.625a.312.312,0,0,1,.312-.312h.479c.232,0,.407-.137.407-.259a.207.207,0,0,0-.083-.15l-.855-.733a1.45,1.45,0,0,1-.521-1.1,1.589,1.589,0,0,1,1.657-1.509h.479a.312.312,0,0,1,.313.313v.625a.312.312,0,0,1-.312.313H8.446c-.232,0-.407.137-.407.259a.207.207,0,0,0,.083.15l.855.733a1.45,1.45,0,0,1,.521,1.1,1.589,1.589,0,0,1-1.656,1.509Zm3.271-4.687v.813a4.258,4.258,0,0,0,.625,2.222,4.257,4.257,0,0,0,.625-2.222v-.812a.312.312,0,0,1,.312-.312H13.3a.312.312,0,0,1,.312.313v.813A5.373,5.373,0,0,1,12.2,19.252a.625.625,0,0,1-.916,0,5.373,5.373,0,0,1-1.417-3.675c0-.985.14-1.125.313-1.125H10.8A.312.312,0,0,1,11.113,14.764Z" transform="translate(770.43 369.048)" opacity="0.8"/>
+    <g id="Icon_feather-file" data-name="Icon feather-file" transform="translate(763.842 369)" opacity="0.8">
+      <path id="Path_41456" data-name="Path 41456" d="M16.35,3H8.3A2.3,2.3,0,0,0,6,5.3V23.7A2.3,2.3,0,0,0,8.3,26H22.1a2.3,2.3,0,0,0,2.3-2.3V11.05Z" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41457" data-name="Path 41457" d="M19.5,3v8.05h8.05" transform="translate(-3.15)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

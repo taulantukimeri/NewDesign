@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.469" height="13.859" viewBox="0 0 43.469 13.859">
+  <g id="arrows-header" transform="translate(-47 -5.5)">
+    <g id="Icon_Chevron_Right" data-name="Icon • Chevron Right" transform="translate(73.999)">
+      <path id="Chevron_Right" data-name="Chevron Right" d="M0,12.938a.953.953,0,0,1,.281-.672L5.758,6.938.281,1.594A.987.987,0,0,1,0,.922.915.915,0,0,1,.93,0a.9.9,0,0,1,.648.266L7.656,6.211a.946.946,0,0,1,.32.719,1,1,0,0,1-.32.727L1.578,13.594a.9.9,0,0,1-.648.266A.915.915,0,0,1,0,12.938Z" transform="translate(8.494 5.5)" fill="#979797"/>
+    </g>
+    <g id="Icon_Chevron_Left" data-name="Icon • Chevron Left" transform="translate(40)">
+      <path id="Chevron_Left" data-name="Chevron Left" d="M6.4,13.594.32,7.648A.987.987,0,0,1,0,6.93.97.97,0,0,1,.328,6.2L6.406.266A.885.885,0,0,1,7.047,0a.915.915,0,0,1,.93.922.953.953,0,0,1-.281.672L2.227,6.922,7.7,12.266a.939.939,0,0,1,.281.672.928.928,0,0,1-1.578.656Z" transform="translate(7 5.5)" fill="#979797"/>
+    </g>
+  </g>
+</svg>

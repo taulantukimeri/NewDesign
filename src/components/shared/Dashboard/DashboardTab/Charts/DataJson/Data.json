@@ -1,0 +1,39 @@
+[
+    {
+        "label": "Jan",
+        "value": 3500
+        
+    },
+    {
+        "label": "Feb",
+        "value": 6000
+    },
+    {
+        "label": "Mar",
+        "value": 10000
+    },
+    {
+        "label": "Apr",
+        "value": 12500
+    },
+    {
+        "label": "May",
+        "value": 20000
+    },
+    {
+        "label": "Jun",
+        "value": 19000
+    },
+    {
+        "label": "Jul",
+        "value": 22500
+    },
+    {
+        "label": "Aug",
+        "value": 15000
+    },
+    {
+        "label": "Sep",
+        "value": 22500
+    }
+]

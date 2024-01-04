@@ -19,6 +19,12 @@ import AddSection2 from "../AdSection/AddSection2";
 import AddSection3 from "../AdSection/AddSection3";
 import AddSection4 from "../AdSection/AdSection4";
 import Footer from "../Footer/Footer";
+import Card from '../CardSwipper/Card';
+import AddSection5 from '../AdSection/AddSection5';
+import AddSection6 from '../AdSection/AddSection6';
+import AddSection7 from '../AdSection/AddSection7';
+import Dashboard from '../Dashboard/Dashboard';
+
 
 function MainBanner(props) {
     return (
@@ -38,7 +44,7 @@ function MainBanner(props) {
                 </div>
             </div>
             <div className="dashboard-section">
-
+                <Dashboard />
             </div>
 
             <div className="sponsor-section">
@@ -53,6 +59,8 @@ function MainBanner(props) {
 
             <img src={plane1} alt="" className="plane-one"/>
             <img src={plane2} alt="" className="plane-two"/>
+
+            <CardSlider />
 
             <AddSection/>
 
@@ -76,10 +84,13 @@ function MainBanner(props) {
                 <h2>Delivering across the marketing funnel</h2>
             </div>
 
-            <AddSection1/>
-            <AddSection2/>
-            <AddSection3/>
-            <AddSection4/>
+            <AddSection1 />
+            <AddSection2 />
+            <AddSection3 />
+            <AddSection4 />
+            <AddSection5 />
+            <AddSection6 />
+            <AddSection7 />
             <Footer/>
 
         </div>

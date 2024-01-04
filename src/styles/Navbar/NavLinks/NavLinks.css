@@ -1,0 +1,38 @@
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: max(5px, 1.5vw);
+}
+
+.nav-link {
+  position: relative;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+  color: white;
+}
+
+.links-description {
+  display: block;
+  position: absolute;
+  width: 100%;
+}
+
+.navbar-catch:hover .links-description {
+  height: 50px;
+}
+
+.navbar-catch:hover .links-description .link-modal,
+.link-modal:hover {
+  display: flex;
+}
+
+.nav-arrow {
+  content: url('../../../assets/icons/Icon\ ionic-ios-arrow-down.svg');
+}

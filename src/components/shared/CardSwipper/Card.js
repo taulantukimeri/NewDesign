@@ -1,5 +1,6 @@
 import React from 'react';
 import "../../../styles/CardSwipper/CardSwipper.scss"
+import icon from '../../../assets/icons/delivering.png'
 
 function Card({ icon, imageUrl, title, description }) {
     return (

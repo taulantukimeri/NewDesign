@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_40791" data-name="Group 40791" transform="translate(-748 -352)">
+    <g id="Ellipse_4825" data-name="Ellipse 4825" transform="translate(748 352)" fill="#2247ed" stroke="#707070" stroke-width="1" opacity="0.03">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="29.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(764.586 369.125)" opacity="0.8">
+      <path id="Path_41464" data-name="Path 41464" d="M14.167,31.083A1.083,1.083,0,1,1,13.083,30,1.083,1.083,0,0,1,14.167,31.083Z" transform="translate(-2.917 -7.917)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41465" data-name="Path 41465" d="M30.667,31.083A1.083,1.083,0,1,1,29.583,30,1.083,1.083,0,0,1,30.667,31.083Z" transform="translate(-7.5 -7.917)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_41466" data-name="Path 41466" d="M1.5,1.5H5.833l2.9,14.506A2.167,2.167,0,0,0,10.9,17.75h10.53A2.167,2.167,0,0,0,23.6,16.006l1.733-9.089H6.917" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

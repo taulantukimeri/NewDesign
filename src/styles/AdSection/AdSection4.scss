@@ -22,7 +22,7 @@ $body-color: #0c0a2a;
   }
 
   .tabs4{
-    width: 80%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -30,8 +30,33 @@ $body-color: #0c0a2a;
     border-radius: 10px;
     background: #1B193687;
     margin-bottom: 40px;
-    margin-top: 40px;
+    // margin-top: 40px;
+    color: white;
+    .activeTab {
+      color: blue; // Change the color or add other styles for the active tab
+    }
 
+    .sliderStyles {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      height: 300px; /* Set the desired height */
+      border: 1px solid #ccc; /* Example border style */
+      /* Add any other styles you want for the slider */
+    }
+    
+    
+    .sliderStyles > div {
+      cursor: pointer;
+    }
+    
+    .sliderStyles > div > span {
+      display: inline-block;
+      padding: 5px;
+      font-size: 20px;
+    }
+    
     button{
       background: transparent;
       position: relative;
@@ -58,6 +83,33 @@ $body-color: #0c0a2a;
 
   }
 
+  .adsection-content-slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    color: white;
+  }
+
+  .sliderStyles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 300px; 
+    border: 1px solid #ccc; 
+  }
+  
+  .sliderStyles > div {
+    cursor: pointer;
+  }
+  
+  .sliderStyles > div > span {
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+  }
   .slider{
     width: 100%;
     position: relative;
@@ -110,6 +162,7 @@ $body-color: #0c0a2a;
     gap: 20px;
     border-radius: 10px;
     border: 1px dashed orange;
+    box-shadow: 0px 0px 10px rgba(0.5, 0.5, 0.5, 0.5);
 
     img{
       width: 200px;
@@ -157,5 +210,11 @@ $body-color: #0c0a2a;
     background-color: rgba(58, 58, 58, 0.63);
     font-size: 30px;
     color: white;
+  }
+
+  .sliderStyles{
+    position: relative;
+    height: 100%;
+    width: 100%;
   }
 }

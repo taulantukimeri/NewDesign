@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="34" viewBox="0 0 48 34">
+  <defs>
+    <filter id="Button" x="0" y="0" width="48" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#101828" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Button-2" data-name="Button" transform="translate(6 5)">
+    <g transform="matrix(1, 0, 0, 1, -6, -5)" filter="url(#Button)">
+      <g id="Button-3" data-name="Button" transform="translate(6 5)" fill="#fff" stroke="#d0d5dd" stroke-width="1">
+        <rect width="36" height="22" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="35" height="21" rx="5.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Command" transform="translate(4 3)">
+      <rect id="Command-2" data-name="Command" width="16" height="16" fill="none"/>
+      <path id="Vector" d="M0,0H16V16H0Z" fill="none"/>
+      <path id="Vector-2" data-name="Vector" d="M1.75,0a1.75,1.75,0,1,1,0,3.5H0V1.75A1.75,1.75,0,0,1,1.75,0Z" transform="translate(9.5 3)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H1.75A1.75,1.75,0,1,1,0,1.75Z" transform="translate(6.5 6.5) rotate(-180)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H1.75A1.75,1.75,0,1,1,0,1.75Z" transform="translate(9.5 9.5)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-5" data-name="Vector" d="M1.75,0a1.75,1.75,0,1,1,0,3.5H0V1.75A1.75,1.75,0,0,1,1.75,0Z" transform="translate(6.5 13) rotate(180)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-6" data-name="Vector" d="M0,0H3V3H0Z" transform="translate(6.5 6.5)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <text id="F" transform="translate(24 3.273)" fill="#1a1a1a" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">F</tspan></text>
+  </g>
+</svg>

@@ -1,33 +1,29 @@
-import React, {useState} from 'react';
-import "../../../styles/Navbar/Navbar.scss"
 
-function Navbar() {
+import React, { useState, useEffect } from 'react';
+import DesktopNavbarMenu from '../Navbar/DesktopNavbarMenu/DesktopNavbarMenu';
+import MobileNavbarMenu from '../Navbar/MobileNavbarMenu/MobileNavbarMenu';
 
-    const [isHovering, setIsHovering] = useState(false);
+const Navbar = () => {
+  const [isDesktop, setIsDesktop] = useState(window.innerWidth > 1230);
 
-    const handleMouseOver = () => {
-        setIsHovering(true);
+  useEffect(() => {
+    const handleResize = () => {
+      setIsDesktop(window.innerWidth > 1230);
     };
 
-    const handleMouseOut = () => {
-        setIsHovering(false);
+    window.addEventListener('resize', handleResize);
+
+    return () => {
+      window.removeEventListener('resize', handleResize);
     };
+  }, []);
 
-
-    return (
-        <div className="nav-main">
-            <button className="nav-btn-1">Advertisers <span>&#8250;</span></button>
-            <button className="nav-btn-2">Media Owners <span>&#8250;</span></button>
-            <button className="nav-btn-3">About Us <span>&#8250;</span></button>
-            <button className="nav-btn-4">Resources <span>&#8250;</span></button>
-            <button className="nav-btn-5">AD Formats <span>&#8250;</span></button>
-            <div className="navbar-buttons">
-                <button className="contact-btn">Contact</button>
-                <button className="login-btn">Log In</button>
-                <button className="signup-btn">Sign Up</button>
-            </div>
-        </div>
-    );
-}
+  return (
+    <div className='navbar'>
+              
+      {isDesktop ? <DesktopNavbarMenu /> : <MobileNavbarMenu />}
+    </div>
+  );
+};
 
 export default Navbar;

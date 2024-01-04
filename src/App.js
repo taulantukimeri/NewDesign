@@ -3,6 +3,7 @@ import Header from "./components/shared/Header/Header";
 import "./assets/Fonts/fonts.css";
 import MainBanner from "./components/shared/MainBanner/MainBanner";
 
+
 function App() {
   return (
     <div className="App">

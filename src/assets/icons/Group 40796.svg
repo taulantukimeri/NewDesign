@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_40796" data-name="Group 40796" transform="translate(-748 -257)">
+    <g id="Ellipse_4826" data-name="Ellipse 4826" transform="translate(748 257)" fill="#2247ed" stroke="#707070" stroke-width="1" opacity="0.03">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="29.5" fill="none"/>
+    </g>
+    <path id="Icon_feather-message-circle" data-name="Icon feather-message-circle" d="M27.387,15.308a10.655,10.655,0,0,1-1.144,4.832,10.808,10.808,0,0,1-9.663,5.976,10.655,10.655,0,0,1-4.832-1.144L4.5,27.387l2.416-7.248a10.655,10.655,0,0,1-1.144-4.832,10.808,10.808,0,0,1,5.976-9.663A10.655,10.655,0,0,1,16.579,4.5h.636A10.782,10.782,0,0,1,27.387,14.672Z" transform="translate(762.057 270.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.8"/>
+  </g>
+</svg>

@@ -18,12 +18,43 @@ $body-color: #0c0a2a;
     position: relative;
     flex-direction: column;
     gap: 20px;
+    color: white;
+    gap: 20px;
     h1{
       font-size: 30px;
       width: 70%;
       color: white;
       margin-bottom: 20px;
     }
+
+    h2{
+      margin-bottom: 20px;
+    }
+
+    .controls{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      button{
+        // background-color:#2247ED ;
+        border: none;
+        width: 50px;
+        height: 50px;
+        gap: 50px;
+        color: black;
+        border-radius: 50%;
+      }
+    }
+    
+
+    .slide {
+      display: none;
+  }
+  
+  .active {
+      display: block;
+  }
 
     p{
       font-size: 12px;

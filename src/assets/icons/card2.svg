@@ -1,0 +1,13 @@
+<svg id="Frame_427321391" data-name="Frame 427321391" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <rect id="Frame_427321391-2" data-name="Frame 427321391" width="52" height="52" rx="26" fill="#fcb32e"/>
+  <g id="vuesax_bold_moneys" data-name="vuesax/bold/moneys" transform="translate(10 10)">
+    <rect id="vuesax_bold_moneys-2" data-name="vuesax/bold/moneys" width="32" height="32" fill="none"/>
+    <g id="vuesax_bold_moneys-3" data-name="vuesax/bold/moneys">
+      <g id="moneys">
+        <path id="Vector" d="M0,0H32V32H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M23.453,5.867v6.867c0,4.107-2.347,5.867-5.867,5.867H5.867a7.8,7.8,0,0,1-1.707-.173,5.185,5.185,0,0,1-.947-.253c-2-.747-3.213-2.48-3.213-5.44V5.867C0,1.76,2.347,0,5.867,0H17.573c2.987,0,5.133,1.267,5.707,4.16a7.548,7.548,0,0,1,.173,1.707ZM5.093,7.307a1,1,0,0,0-2,0v4a1,1,0,0,0,2,0Zm10.147,2a3.52,3.52,0,1,0-3.52,3.52,3.517,3.517,0,0,0,3.52-3.52Zm5.093-2a1,1,0,0,0-2,0v4a1,1,0,1,0,2,0Z" transform="translate(2.28 4.693)" fill="#fff"/>
+        <path id="Vector-3" data-name="Vector" d="M21.975,4.386v6.867c0,4.107-2.347,5.88-5.88,5.88H4.389a7.505,7.505,0,0,1-2.667-.44,4.5,4.5,0,0,1-1.613-.987.344.344,0,0,1,.28-.587H12.1c4.933,0,7.867-2.933,7.867-7.853V.386a.347.347,0,0,1,.587-.28,5.99,5.99,0,0,1,1.427,4.28Z" transform="translate(7.758 10.174)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

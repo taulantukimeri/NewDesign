@@ -1,0 +1,13 @@
+<svg id="Frame_427321391" data-name="Frame 427321391" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <rect id="Frame_427321391-2" data-name="Frame 427321391" width="52" height="52" rx="26" fill="#3b71fd"/>
+  <g id="vuesax_bold_bag" data-name="vuesax/bold/bag" transform="translate(10 10)">
+    <rect id="vuesax_bold_bag-2" data-name="vuesax/bold/bag" width="32" height="32" fill="none"/>
+    <g id="vuesax_bold_bag-3" data-name="vuesax/bold/bag">
+      <g id="bag">
+        <path id="Vector" d="M26.667,8.19c0,2.24-.853,3.04-1.973,3.307a5.568,5.568,0,0,1-1.173.107H3.147a5.156,5.156,0,0,1-1.2-.107,2.152,2.152,0,0,1-1.12-.6A3.635,3.635,0,0,1,0,8.19C0,4.777,2.493,4.777,3.693,4.777h.533L8.72.27a.942.942,0,0,1,1.32,0,.942.942,0,0,1,0,1.32L6.853,4.777h12.96L16.627,1.59a.942.942,0,0,1,0-1.32.942.942,0,0,1,1.32,0l4.507,4.507h.533c1.187,0,3.68,0,3.68,3.413Z" transform="translate(2.667 2.663)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M21.551,1.587,20.2,8.56c-.48,2.52-1.28,4.773-5.773,4.773H6.951c-4.44,0-5.44-2.64-5.813-4.933L.018,1.547A1.331,1.331,0,0,1,1.338,0H20.245a1.329,1.329,0,0,1,1.307,1.587ZM8.991,4.2a.927.927,0,1,0-1.853,0V8.6a.927.927,0,1,0,1.853,0Zm5.707,0a.933.933,0,1,0-1.867,0V8.6a.933.933,0,1,0,1.867,0Z" transform="translate(5.155 16)" fill="#fff"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H32V32H0Z" transform="translate(32 32) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

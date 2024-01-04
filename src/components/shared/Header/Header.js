@@ -3,6 +3,7 @@ import '../../../styles/Header/Header.scss'
 import MainLogo from '../../../assets/icons/main-logo.svg'
 import DarkLightLogo from '../../../assets/icons/sun-icon.svg'
 import Navbar from "../Navbar/Navbar";
+import contactbtn from '../../../assets/icons/contact-btn.svg'
 
 
 function Header() {
@@ -16,7 +17,7 @@ function Header() {
 
             <div className="header-buttons">
 
-                <button className="contact-btn">Contact</button>
+                <button className="contact-btn"><img  src={contactbtn}/>Contact</button>
                 <button className="light-dark-btn">
                     <img src={DarkLightLogo} alt="sun-logo"/>
                 </button>
